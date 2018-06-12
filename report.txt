@@ -1,0 +1,2 @@
+1. 50 epochs, standard backpropagation
+2. experiments
